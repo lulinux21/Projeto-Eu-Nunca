@@ -1,2 +1,3 @@
 # Projeto-Eu-Nunca
-Um projeto simples que tem como objetivo entreter às pessoas de uma forma simples e divertida.
+# Cuidado: O projeto possui conteúdo para pessoas maiores de 18
+O projeto foi criado para ser algo divertido, porém possui algumas perguntas inadequadas para o público infantil.
